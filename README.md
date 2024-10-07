@@ -5,7 +5,6 @@ It provides users with a simple interface to input car details and receive estim
 Features:
 Data Preprocessing: Handles missing values, encodes categorical variables, and splits the data into training and testing sets.
 Model Training: Utilizes regression algorithms like Random Forest for price prediction.
-Web Interface: Built with Flask/Django for user-friendly interactions.
 Deployment: Hosted on a Streamlit platform for accessibility.
 Technologies Used :
 Python
